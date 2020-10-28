@@ -1,0 +1,12 @@
+7807890123;Wholesale club;56 Stony Place
+7804922860;Costcorner;36 Spruce Street 
+7808907654;PriceCo;98 Alberta Avenue
+7801234567;Lows Lili;66 Hinton Road
+7809876453;Coast to coast;34 Sherwood park Avenue
+7801236789;Always Supplies;101 Edson Crest
+7804321089;O and Z company;32 Alphonse Street
+7808802789;New Company;56 Lol Lane
+1234567890;Daksh Company;78 Lol Lane
+7807981567;Hello world;earth
+0000000000;Myhouse Store;Edmonton
+4653837593;University Books;Captial Place

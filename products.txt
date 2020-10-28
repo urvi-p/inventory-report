@@ -1,0 +1,12 @@
+123456789;2L 2% Vitali Milk
+123123123;1L 2% Vitali Milk
+000000000;70% Cocoa Zimbra Chocolate
+456123490;Zimbra Milk Chocolate
+634590221;Onion flavour chips
+456392452;Vinegar flavour chips
+111111111;Sliced white bread
+809001234;Sliced whole wheat bread
+808765432;2L Orange Juice
+634599011;2L Apple Juice
+780123678;Delux chocolate chip cookie collection
+780432109;Pepsi Can Box
